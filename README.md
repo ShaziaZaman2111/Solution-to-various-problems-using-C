@@ -1,13 +1,13 @@
 # Solution-to-various-problems-using-C
-Print all natural numbers from 1 to N.
-Print all alphabets from A to Z
-Print all natural numbers in reverse (from N to 1). (use while loop)
-Print all natural numbers in reverse from 1 to N and calculate its sum.
-Print all odd numbers between 1 to 50.
-Print all even numbers between a range (0 to n) and count its number
-Find first and last digit of a number
-Print multiplication table of any number
-Print number patterns 
+1.Print all natural numbers from 1 to N.
+2.Print all alphabets from A to Z
+3.Print all natural numbers in reverse (from N to 1). (use while loop)
+4.Print all natural numbers in reverse from 1 to N and calculate its sum.
+5.Print all odd numbers between 1 to 50.
+6.Print all even numbers between a range (0 to n) and count its number
+7.Find first and last digit of a number
+8.Print multiplication table of any number
+9.Print number patterns 
 10.Check whether a number is palindrome or not 
 11.calculate factorial of a number.
 12.Check whether a number is Prime number or not. 
